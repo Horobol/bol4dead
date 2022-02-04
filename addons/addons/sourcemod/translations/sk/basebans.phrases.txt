@@ -12,12 +12,12 @@
 
 	"Permabanned player"
 	{
-		"sk"		"Hráč \"{1}\" bol permanentne zabanovaný."
+		"sk"		"Permanentne zabanovaný hráč \"{1}\". "
 	}
 
 	"Permabanned player reason"
 	{
-		"sk"		"Hráč \"{1}\" bol permanentne zabanovaný (dôvod: {2})."
+		"sk"		"Permanentne zabanovaný hráč \"{1}\" (dôvod: {2}).  "
 	}
 
 	"Banned player"
@@ -47,7 +47,7 @@
 
 	"Custom ban reason explanation"
 	{
-		"sk"		"Zadaj dôvod ako chat správu. Použi {1} pre zrušenie."
+		"sk"		"Vlož dôvod ako chat správu. Použi {1} pre zrušenie."
 	}
 
 	"AbortBan applied successfully"

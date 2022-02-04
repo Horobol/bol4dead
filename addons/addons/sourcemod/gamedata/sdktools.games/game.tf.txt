@@ -18,57 +18,57 @@
 		{
 			"GiveNamedItem"
 			{
-				"windows"	"408"
-				"linux"		"409"
-				"mac"		"409"
+				"windows"	"402"
+				"linux"		"406"
+				"mac"		"406"
 			}
 			"RemovePlayerItem"
 			{
-				"windows"	"277"
-				"linux"		"278"
-				"mac"		"278"
+				"windows"	"274"
+				"linux"		"275"
+				"mac"		"275"
 			}
 			"Weapon_GetSlot"
 			{
-				"windows"	"275"
-				"linux"		"276"
-				"mac"		"276"
+				"windows"	"272"
+				"linux"		"273"
+				"mac"		"273"
 			}
 			"Ignite"
 			{
-				"windows"	"216"
-				"linux"		"217"
-				"mac"		"217"
+				"windows"	"213"
+				"linux"		"214"
+				"mac"		"214"
 			}
 			"Extinguish"
 			{
-				"windows"	"220"
-				"linux"		"221"
-				"mac"		"221"
+				"windows"	"217"
+				"linux"		"218"
+				"mac"		"218"
 			}
 			"Teleport"
 			{
-				"windows"	"111"
-				"linux"		"112"
-				"mac"		"112"
+				"windows"	"108"
+				"linux"		"109"
+				"mac"		"109"
 			}
 			"CommitSuicide"
 			{
-				"windows"	"449"
-				"linux"		"449"
-				"mac"		"449"
+				"windows"	"446"
+				"linux"		"446"
+				"mac"		"446"
 			}
 			"GetVelocity"
 			{
-				"windows"	"143"
-				"linux"		"144"
-				"mac"		"144"
+				"windows"	"140"
+				"linux"		"141"
+				"mac"		"141"
 			}
 			"EyeAngles"
 			{
-				"windows"	"134"
-				"linux"		"135"
-				"mac"		"135"
+				"windows"	"131"
+				"linux"		"132"
+				"mac"		"132"
 			}
 			"SetEntityModel"
 			{
@@ -84,9 +84,9 @@
 			}
 			"WeaponEquip"
 			{
-				"windows"	"268"
-				"linux"		"269"
-				"mac"		"269"
+				"windows"	"265"
+				"linux"		"266"
+				"mac"		"266"
 			}
 			"Activate"
 			{
@@ -96,15 +96,15 @@
 			}
 			"PlayerRunCmd"
 			{
-				"windows"	"426"
-				"linux"		"427"
-				"mac"		"427"
+				"windows"	"423"
+				"linux"		"424"
+				"mac"		"424"
 			}
 			"GiveAmmo"
 			{
-				"windows"	"259"
-				"linux"		"260"
-				"mac"		"260"
+				"windows"	"256"
+				"linux"		"257"
+				"mac"		"257"
 			}
 		}
 		
@@ -126,6 +126,12 @@
 				"windows"	"\x55\x8B\xEC\x81\xEC\x24\x01\x00\x00\x53\x8B\xC1"
 				"linux"		"@_ZN17CBaseEntityOutput10FireOutputE9variant_tP11CBaseEntityS2_f"
 				"mac"		"@_ZN17CBaseEntityOutput10FireOutputE9variant_tP11CBaseEntityS2_f"
+			}
+			"SetCollisionGroup"
+			{
+				"library" 	"server"
+				"windows" 	"\x55\x8B\xEC\x53\x8B\x5D\x08\x56\x57\x8B\xF9\x39\x9F\xF0\x01\x00\x00"
+				"linux" 	"@_ZN11CBaseEntity17SetCollisionGroupEi"
 			}
 		}
 	}
