@@ -1,0 +1,11 @@
+<html>
+<head><title>Left 4 Dead MOTD</title></head>
+<body style="margin:0px;padding:1px;background-color: transparent;">
+<img src="https://storage.googleapis.com/l4d2horobol/fridgemotd.png" />
+<br>
+<h1>Pretty Bird!</h1>
+<br>
+<br>
+<h2>Remind me to change this to list mods or something</h2>
+</body>
+</html>
