@@ -37,6 +37,11 @@ sv_logbans 1                             //default 0;Log server bans in the serv
 sv_logflush 0                            //default 0; Flush the log files to disk on each write (slow).
 sv_logsdir logs                          //Folder in the game directory where server logs will be stored.
 
+// [Superversus]
+l4d_supertank 1
+l4d_tank_hpmulti 0.30
+
+
 // [Many Player]
 sv_maxplayers 8
 sv_removehumanlimit 1
