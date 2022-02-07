@@ -41,6 +41,7 @@ RUN /usr/games/steamcmd +login anonymous +quit \
 
 # Install Sourcemod/Metamod/l4dtoolz/etc
 
+COPY --chown=appuser:appuser ./addons/addons/stripper /home/appuser/l4d2server/left4dead2/addons/stripper
 COPY --chown=appuser:appuser ./addons/addons/metamod /home/appuser/l4d2server/left4dead2/addons/metamod
 COPY --chown=appuser:appuser ./addons/addons/sourcemod /home/appuser/l4d2server/left4dead2/addons/sourcemod
 COPY --chown=appuser:appuser ./addons/cfg /home/appuser/l4d2server/left4dead2/cfg

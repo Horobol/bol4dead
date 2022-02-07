@@ -19,7 +19,7 @@ sm_cvar match_execcfg_plugins "generalfixes.cfg;confogl_plugins.cfg;sharedplugin
 
 // [Other Neat Stuff]
 // -----------------------------------------------------------------------
-sv_allow_lobby_connect_only "1"          // If set to 1, players may only join this server from matchmaking lobby, may not connect directly.
+sv_allow_lobby_connect_only "0"          // If set to 1, players may only join this server from matchmaking lobby, may not connect directly.
 
 // [File Consistency]
 // -----------------------------------------------------------------------
@@ -36,10 +36,6 @@ sv_log_onefile 0                         //default 0; Log server information to 
 sv_logbans 1                             //default 0;Log server bans in the server logs.
 sv_logflush 0                            //default 0; Flush the log files to disk on each write (slow).
 sv_logsdir logs                          //Folder in the game directory where server logs will be stored.
-
-// [Superversus]
-l4d_supertank 1
-l4d_tank_hpmulti 0.30
 
 
 // [Many Player]

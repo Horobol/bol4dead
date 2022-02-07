@@ -15,6 +15,12 @@
 <li>Left 4 DHooks Direct v1.86</li>
 <li>ZSpawn v1.2.4</li>
 <li>Mutank Tanks</li>
+<li>8+ Player Bugfixes</li>
+<li>CampaignShift</li>
+<li>Defib Fix</li>
+<li>Upgrade Pack Fix</li>
+<li>4+ Survivor AFK Fix v1.2</li>
+<li>Character Manager + Passing Fix</li>
 </ul>
 </body>
 </html>
