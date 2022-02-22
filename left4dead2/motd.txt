@@ -21,6 +21,7 @@
 <li>Upgrade Pack Fix</li>
 <li>4+ Survivor AFK Fix v1.2</li>
 <li>Character Manager + Passing Fix</li>
+<li>L4D2 Save Weaponfix (Page 5 Forum Post?)</li>
 </ul>
 </body>
 </html>
