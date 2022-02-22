@@ -10,7 +10,7 @@
 <li>Sourcemod v1.11</li>
 <li>Metamod v1.11</li>
 <li>l4dtoolz v1.0.0.9</li>
-<li>Superversus</li>
+<li>Superversus (Page 132 Forum Post)</li>
 <li>DHooks v2.2.0</li>
 <li>Left 4 DHooks Direct v1.86</li>
 <li>ZSpawn v1.2.4</li>

@@ -39,14 +39,12 @@ sv_logsdir logs                          //Folder in the game directory where se
 
 
 // [Many Player]
-sv_maxplayers 8
+sv_maxplayers 18
 sv_removehumanlimit 1
 sv_force_unreserved 1
 sv_unlock_sb_add 1
-sv_visiblemaxplayers 8
-sv_force_unreserved 1
-l4d_survivor_limit 8
-l4d_maxplayers 8
+sv_visiblemaxplayers 18
+l4d_maxplayers 18
 
 
 // [Addon Disabler]
