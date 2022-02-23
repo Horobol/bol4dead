@@ -46,6 +46,11 @@ sv_unlock_sb_add 1
 sv_visiblemaxplayers 18
 l4d_maxplayers 18
 
+// [Friendly Fire]
+sm_cvar survivor_friendly_fire_factor_normal "0.1"    //default 0.1
+sm_cvar survivor_friendly_fire_factor_hard "0.3"        //default 0.3
+sm_cvar survivor_friendly_fire_factor_expert "0.3"    //default 0.5 
+
 
 // [Addon Disabler]
 -----------------------------------------------------------------------
